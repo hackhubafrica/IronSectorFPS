@@ -1,0 +1,6 @@
+{
+  "name": "Iron Sector",
+  "description": "Cross-platform 3D tactical military FPS with online WebSocket multiplayer, offline AI bots, Gunsmith customization, and four combat modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
